@@ -1,0 +1,11 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+}
+.mainheader {
+  font-size: 70px;
+  font-weight: bold;
+}
+.headerlinks {
+  font-size: 18px;
+}
